@@ -2,8 +2,10 @@
 
 > This is my github repository to document my machine learning journey.
 
-## python
-1. CS50
+## [python](SKILLS/Machine_Learning/python/Python_Readme)
+1. [[CS50]]
 2. Numpy and Pandas
+
+[[maths]] 
 
 

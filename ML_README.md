@@ -6,7 +6,7 @@
 1. [[CS50]]
 2. Numpy and Pandas
 
-## [maths] (SKILLS/Machine_Learning/maths/maths.md)
+## [maths](SKILLS/Machine_Learning/maths/maths.md)
 
 
 

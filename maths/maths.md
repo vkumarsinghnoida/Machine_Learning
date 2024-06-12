@@ -7,4 +7,4 @@
 3. [coursera](https://www.coursera.org/specializations/mathematics-machine-learning)
 4. [khan academy](https://www.khanacademy.org/math/linear-algebra)
 
-> For introduction see `3brown1blue` for good visualisation, then see `khan academy` for practise and in depth knowledge and in the end follow `Coursera` course for learning math application in machine learning
+> For introduction see [3brown1blue](SKILLS/Machine_learning/maths/3brown1blue/3brown1blue.md) for good visualisation, then see `khan academy` for practise and in depth knowledge and in the end follow `Coursera` course for learning math application in machine learning
